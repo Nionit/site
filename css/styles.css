@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-weight: 500;
+
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 50px;
+  padding: 30px 0 30px 0;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 8rem;
+  font-family: "Sacramento", cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  color: #66BFBF;
+}
+h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  color: #11999E;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 550px;
+  top: 50px;
+
+}
+
+a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800;
+  font-size: 1.15rem;
+  color: #11999E;
+  padding-right: 50px;
+}
+
+.subtitle{
+  font-weight: normal;
+}
+
+.skill-row{
+  line-height: 2;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.coding {
+  width: 35%;
+  float: left;
+  padding-right: 30px;
+
+}
+.sleeping {
+  width: 35%;
+  float: right;
+  padding-left: 30px;
+
+}
+
+.dp {
+  width: 12%;padding: 30px 0 0 0;
+
+}
+.BUTTON_SJG {
+  width: 130px;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   color: #FFFFFF;
+   font-family: "Montserrat", sans-serif;
+   font-size: 22px;
+   font-weight: 600;
+   padding: 10px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 0 0 0 0 #000000;
+   -moz-box-shadow: 0 0 0 0 #000000;
+   box-shadow: 0 0 0 0 #000000;
+   text-shadow: 9px 8px 100px #000000;
+   border: solid rgba(0, 188, 57, 0) 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_SJG:hover {
+   background: #00E9E9;
+   border: solid rgba(0, 188, 57, 0) 0;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   text-decoration: none;
+}
+
+hr {
+  border-color: grey;
+  border-style: none none dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.blabber {
+  width: 40%;
+  margin: auto;
+}
+.blabber2 {
+  width: 40%;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+.footer-link {
+  margin-top: 120px;
+
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.copysub {
+   font-family: "Montserrat", sans-serif;
+   font-weight: 800;
+   color: white;
+ }
+
+ p {
+   font-weight: 500;
+   font-size: 1.1rem;
+ }
